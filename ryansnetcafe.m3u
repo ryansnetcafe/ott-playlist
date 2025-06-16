@@ -118,7 +118,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Cignal", HBO Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="Cignal", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -237,7 +237,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Cignal", HISTORY
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd" group-title="Cignal", Hstory
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -272,7 +272,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Cignal",HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="Cignal",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -377,7 +377,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
-#EXTINF:-1 tvg-id="dreamworks_hd" group-title="Cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
+#EXTINF:-1 tvg-id="dreamworks_hd" group-title="Cignal" tvg-logo="https://i.imgur.com/cgfKSDP.png",DreamWorks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -687,7 +687,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001135/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001204/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Converge", History
+#EXTINF:-1 tvg-logo="https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd" group-title="Converge", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001074/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -717,7 +717,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001110/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001106/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="Converge", HGTV
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Converge", HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001162/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -1004,7 +1004,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
   
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" ,History
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd" ,History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
