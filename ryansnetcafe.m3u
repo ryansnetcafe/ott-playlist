@@ -772,7 +772,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001337/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/856/534/png-transparent-logo-text-nhk-bs-premium-nhk-bs-2-nhk-bs1-television-nhk-general-tv-dbsatellit-nhk-broadcasting-center.png" group-title="Converge", BS Premium
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GGJcnA5bEAAllDP?format=jpg&name=large" group-title="Converge", BS Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001165/manifest.mpd?virtualDomain=001.live_hls.zte.com
