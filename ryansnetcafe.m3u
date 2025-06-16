@@ -244,7 +244,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png" group-title="Cignal", BBC EARTH 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png" group-title="Cignal", BBC Earth
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -314,7 +314,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Cignal",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Cignal",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -356,7 +356,7 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Cignal" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/08/Bloomberg_Television_Logo_2016.png/revision/latest/scale-to-width-down/80?cb=20210228154100",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="Cignal" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -370,7 +370,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
 
-#EXTINF:-1 tvg-id="cartoon_net_hd" group-title="Cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon_net_hd" group-title="Cignal" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -582,7 +582,7 @@ http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="Converge", Cinemax
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge", Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -697,7 +697,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001074/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Converge", Discovery Channel
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/394/308/sticker-png-discovery-channel-logo-television-documentary-discovery-miscellaneous-television-logo-world-earth.png" group-title="Converge", Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -737,7 +737,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001214/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001335/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Converge", Crime & Investigation 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Converge", Crime & Investigation 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001144/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -852,7 +852,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -988,7 +988,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" ,Discovery Channel
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://c0.klipartz.com/pngpicture/394/308/sticker-png-discovery-channel-logo-television-documentary-discovery-miscellaneous-television-logo-world-earth.png" ,Discovery Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -996,7 +996,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
   
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" ,Discovery Asia
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" ,Discovery Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1020,7 +1020,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
   
-#EXTINF:-1 tvg-id="BBCEarth" ch-number=" " tvg-name="BBC Earth" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" ch-number="554",BBC Earth
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://imgur.com/QMB9sFW.png" ,BBC Earth
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1116,7 +1116,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="World TV"" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png" ,Cartoon Network
+#EXTINF:-1 tvg-id="" group-title="World TV"" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ,Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1148,7 +1148,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png", CNN
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png", CNN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
