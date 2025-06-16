@@ -237,7 +237,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd" group-title="Cignal", Hstory
+#EXTINF:-1 tvg-id="" tvg-logo="https://cordcutting.com/wp-content/uploads/2019/01/History-Channel.jpg" group-title="Cignal", Hstory
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -687,7 +687,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001135/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001204/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd" group-title="Converge", History
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2019/01/History-Channel.jpg" group-title="Converge", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001074/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -1004,7 +1004,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
   
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd" ,History
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://cordcutting.com/wp-content/uploads/2019/01/History-Channel.jpg" ,History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
