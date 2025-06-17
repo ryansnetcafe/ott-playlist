@@ -342,7 +342,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYN3iEre4tqlVY6qs2s4abwtjZrhDrmyRJw&s" group-title="Cignal", ABC Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Cignal", ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -363,7 +363,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
 
-#EXTINF:-1 tvg-id="bbcworld_news" group-title="Cignal" tvg-logo="https://download.logo.wine/logo/BBC_News/BBC_News-Logo.wine.png",BBC News
+#EXTINF:-1 tvg-id="bbcworld_news" group-title="Cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -397,6 +397,14 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="Cignal",CNN Philippines
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_cnnhd.mpd
 
 ########## Converge TV ##########
 
@@ -527,7 +535,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge", Cinemo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge", Cinemo!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -542,7 +550,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="Converge", Cinema World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Converge", Cinema World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -572,7 +580,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Celestial_Movies_Pinoy_%282016-.n.v.%29.png/revision/latest?cb=20210214082729" group-title="Converge", Celestial Movies Pinoy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Converge", Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -697,7 +705,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001074/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/394/308/sticker-png-discovery-channel-logo-television-documentary-discovery-miscellaneous-television-logo-world-earth.png" group-title="Converge", Discovery Channel
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Converge", Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -772,7 +780,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001337/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GGJcnA5bEAAllDP?format=jpg&name=large" group-title="Converge", BS Premium
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20230829/ourmid/pngtree-gold-color-bs-letter-logo-on-dark-gray-geometric-shape-concept-vector-png-image_9954543.png" group-title="Converge", BS Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001165/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -787,12 +795,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001096/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Converge", CNN International
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Converge", CNN International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001073/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYN3iEre4tqlVY6qs2s4abwtjZrhDrmyRJw&s" group-title="Converge", ABC Australia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Converge", ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001111/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -872,6 +880,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001145/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="Converge",SMNI Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001155/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 ########## World TV ##########
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdPPBMa7Zidx5LBukuxfGpm5g-oWFNg4PYURbwZ9v_8rJM-_bbWzrv11Eis3JeGqpv4k&usqp=CAU"
@@ -900,7 +913,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeOPFxMeFa1mOxJj9HTNg2wveE8tmnIhS9NAqXrS1rc3EExOaslj4rfdPcqcnKaoH7vQ&usqp=CAU" group-title="World TV",K+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-title="World TV",K+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -988,7 +1001,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://c0.klipartz.com/pngpicture/394/308/sticker-png-discovery-channel-logo-television-documentary-discovery-miscellaneous-television-logo-world-earth.png" ,Discovery Channel
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" ,Discovery Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1148,7 +1161,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png", CNN
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png", CNN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1271,6 +1284,63 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="World TV",Cinemo! Global
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="World TV",BBC News
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="World TV",Disney Jr. 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
+https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="World TV",Disney XD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="World TV",Aniplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.e-net.sk/wp-content/uploads/2022/09/MTV-90s-Logo_Colour_WhiteLetter-1-1361x1536.png" group-title="World TV" ,MTV 90s
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+#EXTINF:-1 tvg-id="717.astro" tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="World TV",MTV Live
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="World TV",MYX Global
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png", WWE Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTINF:-1 tvg-id="" group-title="World TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nNXA0eVMIuA12I3Twd/ITA","kid":"AQy7nPGgHq04Bwcw04vHEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TeKCBK.png" group-title="World TV",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
