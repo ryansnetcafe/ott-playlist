@@ -1345,6 +1345,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TeKCBK.png" group-title="World TV",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 
-#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/892/482/gratis-png-canal-de-television-geografico-nacional-natal-geo-wild-youtube-transmision-en-vivo.png" group-title="World TV",National Geographic Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="World TV",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
