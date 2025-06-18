@@ -15,14 +15,14 @@ https://in-icecast.eradioportal.com:8443/monsterrrx
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
 http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/672/dwls-barangay-ls-971-fm.75899014.jpg" group-title="Ph Live Radio",97.1 Barangay LS
-https://stream.zeno.fm/dphe9050afhvv
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
 https://hrmanila.radioca.st/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="Ph Live Radio",100.3 RJ FM
+https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
