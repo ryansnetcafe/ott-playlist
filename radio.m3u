@@ -1,5 +1,11 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="87.5 Republika FM1
+https://stream.zeno.fm/qnt98p5m108uv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
+http://192.53.113.120:8000/stream?type=.mp3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
 https://stream.zeno.fm/sh37pvfd938uv
 
@@ -9,11 +15,17 @@ https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="Ph Live Radio",91.5 Win Radio
 https://stream.zeno.fm/nz4ydgnu6hhvv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Ph Live Radio",92.3 FM RADIO Manila
+http://us1.amfmph.com:8872/stream?type=.aac
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
 https://in-icecast.eradioportal.com:8443/monsterrrx
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
 http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Ph Live Radio",96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
 https://hrmanila.radioca.st/stream
