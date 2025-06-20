@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/ph.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/my.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/ph.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/my.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/us.gz"
 
 ########## Cignal TV ##########
 
