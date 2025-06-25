@@ -30,6 +30,9 @@ https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
 https://hrmanila.radioca.st/stream
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="Ph Live Radio",98.7 The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 
@@ -38,6 +41,12 @@ https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="Ph Live Radio",103.5 All Radio
+http://103.36.17.18:8000/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Ph Live Radio",104.3 Capital FM2
+http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
