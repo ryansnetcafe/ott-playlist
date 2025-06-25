@@ -1330,6 +1330,13 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+#EXTINF:-1 tvg-id="disneyxd" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-xd.png" group-title="World TV",Disney XD
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TeKCBK.png" group-title="World TV",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 
