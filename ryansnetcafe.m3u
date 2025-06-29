@@ -1011,7 +1011,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001203/manifest.mpd?virtualDoma
 
 ########## World TV ##########
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdPPBMa7Zidx5LBukuxfGpm5g-oWFNg4PYURbwZ9v_8rJM-_bbWzrv11Eis3JeGqpv4k&usqp=CAU"
+#EXTINF:-1 group-logo="https://i.imgur.com/QdDxpMo.jpeg"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="World TV",tvN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
