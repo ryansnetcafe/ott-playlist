@@ -1602,6 +1602,11 @@ http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
+#EXTINF:-1 tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="World TV",Aniplus
+https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+**********FM Radio**********
+
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
