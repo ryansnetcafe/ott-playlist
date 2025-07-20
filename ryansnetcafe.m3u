@@ -1657,3 +1657,5 @@ http://122.53.138.32:8000/dwbr.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://thejediverse.wordpress.com/wp-content/uploads/2025/07/pacquiaovsbarrios.png?w=896" channel-number="1" group-title="PBC Live", Pacquiao vs Barrios
+https://pakyaw-ott.kobidurant950.workers.dev/playlist.m3u
