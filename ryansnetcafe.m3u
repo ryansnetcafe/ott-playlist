@@ -1659,9 +1659,6 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-1 group-logo="https://www.premierboxingchampions.com/sites/default/files/styles/responsive_1280_x_720/public/youtube_thumbs/n7lJqGVSvBE_6358f2e5.jpg?itok=rBZT1fnL"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8gAqGzB.png" group-title="PPV",Pacquiao vs. Barrios
-https://pakyaw-v1.kobidurant950.workers.dev/
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H24OJZx.png" group-logo="https://i.imgur.com/na7WMFe.png" group-title="PPV",Pacquiao vs Barrios (Converge)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303438393537383939373636:375650765372326e6c50544b337a6933
