@@ -1,0 +1,22 @@
+﻿#EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",onhc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://143.44.136.110:6910/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",inc tv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://143.44.136.110:6910/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",3 abn
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://143.44.136.110:6910/001/2/ch00000090990000001183/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Converge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",ewtn
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://143.44.136.110:6910/001/2/ch00000090990000001104/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
