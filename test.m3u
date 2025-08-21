@@ -20,5 +20,5 @@ https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef947458175494
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
+#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
 https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
