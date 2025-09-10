@@ -23,6 +23,10 @@ https://stream.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef947458175494
 #KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
 https://stream.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge", GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177609020250910024854002907&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001143//fragment-269693538737-f1-a1-x3.m4s?JITPTrackType=21&virtualDomain=001.live_hls.zte.com&isjitp=0&JITPDRMType=Widevine&IASHttpSessionId=OTT177609020250910024854002907&m4s_min=1&JITPMediaType=DASH&ztecid=ch00000090990000001143&ispcode=55&startNumber=44948919&filedura=6
+
 HBO POP
 
 MPD: https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
