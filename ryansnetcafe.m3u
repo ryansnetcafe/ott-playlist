@@ -1420,11 +1420,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/MiUDLVa.png", ANIMAX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/f/f6/KNBS_95.png/revision/latest/zoom-crop/width/480/height/480?cb=20191126221915" , NBC4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
@@ -1694,6 +1689,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
