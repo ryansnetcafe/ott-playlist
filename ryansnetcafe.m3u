@@ -460,7 +460,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/arirang_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="nhk_japan" group-title="Cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1689,6 +1689,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
