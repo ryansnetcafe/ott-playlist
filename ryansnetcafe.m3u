@@ -564,7 +564,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001078/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="Converge", DZMM Teleradyo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Converge", DZMM Teleradyo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001249/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -834,7 +834,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="Converge", Discovery Asia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180408072813" group-title="Converge", Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -999,7 +999,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="cgtnenglish" group-title="Converge" tvg-logo="https://images.seeklogo.com/logo-png/32/1/cgtn-logo-png_seeklogo-326602.png",CGTN
+#EXTINF:-1 tvg-id="cgtnenglish" group-title="Converge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459",CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1153,7 +1153,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
   
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" ,Discovery Asia
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180408072813" ,Discovery Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1324,7 +1324,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
   
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/32/1/cgtn-logo-png_seeklogo-326602.png",CGTN
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459",CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1386,7 +1386,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png",DZMM TeleRadyo
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png",DZMM TeleRadyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1653,6 +1653,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
