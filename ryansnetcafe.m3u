@@ -1601,9 +1601,9 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 
 **********GanbaRuby**********
 
-#EXTINF:-1 group-logo="https://imgur.com/hadD0Cx"
+#EXTINF:-1 group-logo="https://i.imgur.com/hadD0Cx.jpeg"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fDhBrB4" group-title="GanbaRuby232", iHeart Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="GanbaRuby232", iHeart Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1611,7 +1611,7 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
 https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/2L3JzLv" group-title="GanbaRuby232", Heart Of Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="GanbaRuby232", Heart Of Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1673,6 +1673,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
