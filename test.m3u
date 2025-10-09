@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="GanbaRuby232", iHeart Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="", iHeart Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -10,10 +10,9 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
 https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="GanbaRuby232", Heart Of Asia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
-https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
