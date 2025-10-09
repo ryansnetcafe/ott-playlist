@@ -1054,7 +1054,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001315/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" group-title="Converge" tvg-logo="",Abante
+#EXTINF:-1 tvg-id="" group-title="Converge" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20241201000205",Abante TeleTabloid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1678,6 +1678,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
