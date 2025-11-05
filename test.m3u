@@ -2,17 +2,29 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="", iHeart Movies
+#EXTINF:-1 ch-number="1" tvg-chno="1" group-title="Curry" tvg-id="TV5 ph" tvg-name="TV5" tvg-logo="https://i.pinimg.com/736x/e0/c7/02/e0c702a16f105e515de486d84f2f777f.jpg", TV5 HD
+#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
+#EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abba271e8bcf552bbd2e86a434a9a5d9:69eaa802a6763af979e8d1940fb88392
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
-https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438303333323033373730:375a684a31357647653565574b363076
+http://161.49.17.2:6610/001/2/ch00000090990000000588/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Animax
+#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="Curry" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/31/9e/05/319e0530158f0647e3dd3b26c40503d3.jpg", GMA HD
+#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
+#EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
-https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 ch-number="3" tvg-chno="3" group-title="Curry" tvg-id="Zoe TV" tvg-name="Light TV" tvg-logo="https://i.pinimg.com/736x/52/f5/6f/52f56f50c88fb582bc9ad9cdbbd0c0aa.jpg", Light TV
+#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
+#EXTVLCOPT:http-origin=http://161.49.17.2:6610
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
+http://161.49.17.2:6610/001/2/ch00000090990000001103/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
