@@ -557,7 +557,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Converge",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=QUA7Cf9CqRIvrU71MfE51sZIUMNsSOoqTzDJu4X%2FHskWX0%2B4Q72LaZbDQapdzPH5O1qnHGGmQSbAtr9nBaZ%2FEQ%3D%3D&virtualDomain=001.live_hls.zte.com&usersessionid=177583586&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRdrKqUNFVscexjtLiwnvCtE%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Converge", PBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1662,6 +1662,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
