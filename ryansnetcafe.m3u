@@ -1065,6 +1065,12 @@ https://converse.nathcreqtives.com/1175/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1147/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2L3JzLv.png" group-title="WesleyVanneck",Heart Of Asia
+http://hls.nathcreqtives.com/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="WesleyVanneck",I Heart Movies
+http://hls.nathcreqtives.com/playlist.m3u8?id=2
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
@@ -1668,6 +1674,7 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 
 
 
