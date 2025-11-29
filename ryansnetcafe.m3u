@@ -1675,6 +1675,9 @@ http://122.53.138.32:8000/dwbr.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/669/dyrk-963-wrock.b988c09b.png" group-title="Ph Live Radio",96.3 WRocK
+https://wrockceb-iradioph.radioca.st/;?1764388585887
+
 
 
 
