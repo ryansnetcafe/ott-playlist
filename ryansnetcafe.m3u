@@ -386,6 +386,12 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_tv5_monde/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
 
+#EXTINF:-1 tvg-id="Studio_Universal" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B3F8E1A6-2C75-49D0-A4B9-8E613F7C529D//0-3x1.jpg?width=1366" group-title="Cignal",Studio Universal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
+
 **********Converge-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
@@ -1057,10 +1063,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
 
 #EXTINF:-1 tvg-id="AstroDaebak" group-title="World TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroDaebak.png",Astro Daebak
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+#KODIPROP:inputstream.adaptive.license_key=4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" ,Kapamilya Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1236,6 +1243,32 @@ https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png", CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5082ef4a1f53079360ed8283bbe05c10:9a837b648a223d23ff05045972dbb6ae
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/Music_Box_3D.png/revision/latest?cb=20221224124435&path-prefix=vi", Music Box
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Aniplus.png", Aniplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png", Astro Boo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 **********FM Radio**********
 
