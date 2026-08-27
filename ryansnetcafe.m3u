@@ -399,7 +399,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Converge",One PH
 http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rai_Italia_-_Logo_2017.svg" group-title="Converge",Rai Italia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omP283K.png" group-title="Converge",Rai Italia
 http://136.239.159.18:6610/001/2/ch00000090990000001099/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001235&contentid=ch00000000000000001235&videoid=ch00000090990000001099&recommendtype=0&userid=1127958632030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KEK2TOK1TAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/c/c0/VOP_Logo.png" group-title="Converge",RJTV Radyo Bandido TV
