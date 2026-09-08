@@ -49,7 +49,7 @@ http://103.36.17.18:8000/stream
 http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yhvWcG2.jpeg" group-title="Ph Live Radio",105.9 True FM
-https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8
+https://www.truefm.ph/radio-stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
