@@ -32,11 +32,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_hbofam" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/62F1A4ED-EB56-49DF-912D-0A2388131772/0-16x9.jpg?width=1980" group-title="Cignal",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
-
 #EXTINF:-1 tvg-id="lotusmacau_prd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-16x9.jpg?width=1980" group-title="Cignal",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9
@@ -1326,10 +1321,8 @@ https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yhvWcG2.jpeg" group-title="Ph Live Radio",105.9 True FM
+https://www.truefm.ph/radio-stream/playlist.m3u8
 
 
 
