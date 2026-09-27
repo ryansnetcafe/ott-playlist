@@ -365,8 +365,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_studio_universal_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_ncaa" tvg-logo="https://qp-pldtcms-image-resizer-cloud-prod.akamaized.net/image/A47D8F20-1C63-4E95-AB72-9F305D6C81E4/0-16x9.jpg?height=150" group-title="Cignal",NCAA NXT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd?hdnts=st=1789047885~exp=1789048005~acl=/bpk-tv/cg_ncaa/default/*~id=IT6OdRzqpaP6053diFH2t-pZVnIWiasjIZ-hbl27lBoMEHc~hmac=85ec19765a45b5f761ab23cf6d0a808e6cd82e174b3f0088f9c9279e6279c787
+#KODIPROP:inputstream.adaptive.license_key=c6e4b9218f534a709d165c3a7e2f8048:87c0e7cf73324aea32dada7b5f33063d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd
 
 **********Converge-TV**********
 
