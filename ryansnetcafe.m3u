@@ -1287,9 +1287,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
-https://stream.zeno.fm/qnt98p5m108uv
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
 http://192.53.113.120:8000/stream?type=.mp3
 
@@ -1326,30 +1323,8 @@ http://sg-icecast.eradioportal.com:8000/febc_dzfe
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="Ph Live Radio",100.3 RJ FM
-https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="Ph Live Radio",103.5 All Radio
-http://103.36.17.18:8000/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Ph Live Radio",104.3 Capital FM2
-http://122.53.138.32:8000/dwbr.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
-http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-
-
-
-
-
-
-
-
-
 
 
 
